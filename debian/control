@@ -1,0 +1,11 @@
+Source: mdadm-dbus-notify
+Section: admin
+Priority: optional
+Maintainer: eviljoel
+#Build-Depends:
+Standards-Version: 3.9.6.1
+
+Package: mdadm-dbus-notify
+Architecture: all
+Depends: dbus, mdadm, python | python3
+Description: Creates DBus desktop notifications for RAID failures. 

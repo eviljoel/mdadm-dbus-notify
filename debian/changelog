@@ -1,0 +1,5 @@
+mdadm-dbus-notify (1.0) UNRELEASED; urgency=medium
+
+  * Initial release.
+
+ -- eviljoel <eviljoel@linux.com>  Sat, 4 Apr 2018 23:12:00 -0600

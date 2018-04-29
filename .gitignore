@@ -1,0 +1,9 @@
+debian/debhelper-build-stamp
+debian/debhelper.log
+debian/files
+debian/tmp
+debian/mdadm-dbus-notify.debhelper.log
+debian/mdadm-dbus-notify
+debian/mdadm-dbus-notify.substvars
+*.pyc
+.idea
